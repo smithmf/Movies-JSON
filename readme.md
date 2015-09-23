@@ -1,4 +1,4 @@
-# Movie JSON
+# Movies JSON
 
 ## Popular movie lists in json format
 
