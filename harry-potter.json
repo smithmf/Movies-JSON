@@ -1,7 +1,7 @@
 {
 	"Harry Potter" : {
 		"Harry Potter and the Sorcerers Stone" : {
-			"movie_id" : 165,
+			"movie_id" : 1,
 			"title" : "Harry Potter and the Sorcerers Stone",
 			"category_name" : "Fantasy",
 			"release_year" : 2001,
@@ -15,7 +15,7 @@
 			"time_stamp" : "2006-01-06"
 		},
 		"Harry Potter and the Chamber of Secrets" : {
-			"movie_id" : 166,
+			"movie_id" : 2,
 			"title" : "Harry Potter and the Chamber of Secrets",
 			"category_name" : "Fantasy",
 			"release_year" : 2002,
@@ -29,7 +29,7 @@
 			"time_stamp" : "2006-01-06"
 		},
 		"Harry Potter and the Prison of Azkaban" :{
-			"movie_id" : 167,
+			"movie_id" : 3,
 			"title" : "Harry Potter and the Prison of Azkaban",
 			"category_name" : "Fantasy",
 			"release_year" : 2004,
@@ -43,7 +43,7 @@
 			"time_stamp" : "2006-01-06"
 		},
 		"Harry Potter and the Goblet of Fire" :{
-			"movie_id" : 168,
+			"movie_id" : 4,
 			"title" : "Harry Potter and the Goblet of Fire",
 			"category_name" : "Fantasy",
 			"release_year" : 2005,
@@ -57,7 +57,7 @@
 			"time_stamp" : "2006-03-10"
 		},
 		"Harry Potter and the Order of the Phoenix" :{
-			"movie_id" : 169,
+			"movie_id" : 5,
 			"title" : "Harry Potter and the Order of the Phoenix",
 			"category_name" : "Fantasy",
 			"release_year" : 2007,
@@ -71,7 +71,7 @@
 			"time_stamp" : "2008-01-04"
 		},
 		"Harry Potter and the Half-Blood Prince" :{
-			"movie_id" : 170,
+			"movie_id" : 6,
 			"title" : "Harry Potter and the Half-Blood Prince",
 			"category_name" : "Fantasy",
 			"release_year" : 2009,
@@ -85,7 +85,7 @@
 			"time_stamp" : "2010-01-02"
 		},
 		"Harry Potter and the Deathly Hallows : Part I" :{
-			"movie_id" : 171,
+			"movie_id" : 7,
 			"title" : "Harry Potter and the Deathly Hallows : Part I",
 			"category_name" : "Fantasy",
 			"release_year" : 2010,
@@ -99,7 +99,7 @@
 			"time_stamp" : "2011-05-02"
 		},
 		"Harry Potter and the Deathly Hallows : Part II" :{
-			"movie_id" : 172,
+			"movie_id" : 8,
 			"title" : "Harry Potter and the Deathly Hallows : Part II",
 			"category_name" : "Fantasy",
 			"release_year" : 2011,

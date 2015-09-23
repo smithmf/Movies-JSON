@@ -1,7 +1,7 @@
 {
 	"Star Wars" : {
 		"Episode I: The Phantom Menace" : {
-			"movie_id" : 350,
+			"movie_id" : 1,
 			"category_name" : "Science Fiction",
 			"release_year" : 1999,
 			"running_time" : 133,
@@ -14,7 +14,7 @@
 			"time_stamp" : "2015-09-21"
 		},
 		"Episode II: Attack of the Clones" : {
-			"movie_id" : 351,
+			"movie_id" : 2,
 			"category_name" : "Science Fiction",
 			"release_year" : 2002,
 			"running_time" : 142,
@@ -27,7 +27,7 @@
 			"time_stamp" : "2015-09-21"
 		},
 		"Episode III: Revenge of the Sith" : {
-			"movie_id" : 352,
+			"movie_id" : 3,
 			"category_name" : "Science Fiction",
 			"release_year" : 2005,
 			"running_time" : 140,
@@ -40,7 +40,7 @@
 			"time_stamp" : "2015-09-21"
 		},
 		"Episode IV: A New Hope" : {
-			"movie_id" : 353,
+			"movie_id" : 4,
 			"category_name" : "Science Fiction",
 			"release_year" : 1977,
 			"running_time" : 123,
@@ -53,7 +53,7 @@
 			"time_stamp" : "2015-09-21"
 		},
 		"Episode V: The Empire Strikes Back" : {
-			"movie_id" : 354,
+			"movie_id" : 5,
 			"category_name" : "Science Fiction",
 			"release_year" : 1980,
 			"running_time" : 129,
@@ -66,7 +66,7 @@
 			"time_stamp" : "2015-09-21"
 		},
 		"Episode VI: Return of the Jedi" : {
-			"movie_id" : 355,
+			"movie_id" : 6,
 			"category_name" : "Science Fiction",
 			"release_year" : 1983,
 			"running_time" : 136,
@@ -79,7 +79,7 @@
 			"time_stamp" : "2015-09-21"
 		},
 		"Episode VII: The Force Awakens" : {
-			"movie_id" : 700,
+			"movie_id" : 7,
 			"category_name" : "Science Fiction",
 			"release_year" : 2015,
 			"running_time" : 1,
