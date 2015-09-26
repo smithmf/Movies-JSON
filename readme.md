@@ -2,12 +2,16 @@
 
 ## Popular movie lists in json format
 
-The main purpose is to have some ready to go json data to develop with for front end projects and scripting exercises in Ruby or Python.
+The main purpose of this repo is to have some ready to go json data to use when writing 
+front end development projects or scripting exercises in Ruby or Python. And I also really 
+enjoy watching movies, so I decided to base my examples on some popular film series.
 
-Current lists include:
+My current lists include these awesome film series:
 
 * Fast and the Furious
 * Harry Potter
 * Lord of the Rings
 * Marvel Cinematic Universe
 * Star Wars
+
+... more to come.
