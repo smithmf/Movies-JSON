@@ -108,8 +108,8 @@
 			"disc_format_name" : "",
 			"number_discs" : 0,
 			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : " 2.35:1",
-			"status" : 1,
+			"aspect_ratio_name" : " ",
+			"status" : 0,
 			"time_stamp" : ""
 		}
 	}
