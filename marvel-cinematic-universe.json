@@ -215,6 +215,42 @@
 			"budget" : "130,000,000",
 			"gross" : "179,017,481",
 			"time_stamp" : ""
+		},
+		"Captain America: Civil War": {
+			"movie_id" : 13,
+			"title" : "Captain America: Civil War",
+			"phase" : "Phase Three",
+			"category_name" : "Science Fiction",
+			"release_year" : 2016,
+			"running_time" : 0,
+			"rating_name" : "PG-13",
+			"disc_format_name" : "Blu-ray",
+			"number_discs" : 1,
+			"viewing_format_name" : "Widescreen",
+			"aspect_ratio_name" : " 1.85:1",
+			"status" : 1,
+			"release_date" : "May 6, 2016",
+			"budget" : "tbd",
+			"gross" : "tbd",
+			"time_stamp" : ""
+		},
+		"Doctor Strange": {
+			"movie_id" : 14,
+			"title" : "Doctor Strange",
+			"phase" : "Phase Two",
+			"category_name" : "Science Fiction",
+			"release_year" : 2016,
+			"running_time" : 0,
+			"rating_name" : "PG-13",
+			"disc_format_name" : "Blu-ray",
+			"number_discs" : 1,
+			"viewing_format_name" : "Widescreen",
+			"aspect_ratio_name" : " 1.85:1",
+			"status" : 1,
+			"release_date" : "November 4, 2016",
+			"budget" : "tbd",
+			"gross" : "tbd",
+			"time_stamp" : ""
 		}
 	}
 }
