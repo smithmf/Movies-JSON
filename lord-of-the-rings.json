@@ -2,7 +2,10 @@
 	"Lord of the Rings" : {
 		"The Fellowship of the Ring": {
 			"movie_id" : 1,
-			"title" : "LOTR I: The Fellowship of the Ring",
+			"title" : "The Fellowship of the Ring",
+            "source" : "Lord of the Rings",
+            "classification" : "Middle Earth",
+            "order" : 1,
 			"category_name" : "Fantasy",
 			"release_year" : 2001,
 			"running_time" : 178,
@@ -16,7 +19,10 @@
 		},
 		"The Two Towers": {
 			"movie_id" : 2,
-			"title" : "LOTR II: The Two Towers",
+			"title" : "The Two Towers",
+            "source" : "Lord of the Rings",
+            "classification" : "Middle Earth",
+            "order" : 2,
 			"category_name" : "Fantasy",
 			"release_year" : 2002,
 			"running_time" : 179,
@@ -30,7 +36,10 @@
 		},
 		"The Return of the King": {
 			"movie_id" : 3,
-			"title" : "LOTR III: The Return of the King",
+			"title" : "The Return of the King",
+            "source" : "Lord of the Rings",
+            "classification" : "Middle Earth",
+            "order" : 3,
 			"category_name" : "Fantasy",
 			"release_year" : 2003,
 			"running_time" : 201,
@@ -45,6 +54,9 @@
 		"An Unexpected Journey": {
 			"movie_id" : 4,
 			"title" : "Hobbit, The - An Unexpected Journey",
+            "source" : "The Hobbit",
+            "classification" : "Middle Earth",
+            "order" : 1,
 			"category_name" : "Fantasy",
 			"release_year" : 2013,
 			"running_time" : 169,
@@ -59,6 +71,9 @@
 		"The Desolation of Smaug": {
 			"movie_id" : 5,
 			"title" : "Hobbit, The - Desolation of Smaug",
+            "source" : "The Hobbit",
+            "classification" : "Middle Earth",
+            "order" : 2,
 			"category_name" : "Fantasy",
 			"release_year" : 2014,
 			"running_time" : 161,
@@ -73,6 +88,9 @@
 		"The Battle of the Five Armies": {
 			"movie_id" : 6,
 			"title" : "Hobbit, The - The Battle of the Five Armies",
+            "source" : "The Hobbit",
+            "classification" : "Middle Earth",
+            "order" : 3,
 			"category_name" : "Fantasy",
 			"release_year" : 2015,
 			"running_time" : 144,
