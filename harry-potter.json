@@ -3,6 +3,7 @@
 		"Harry Potter and the Sorcerers Stone" : {
 			"movie_id" : 1,
 			"title" : "Harry Potter and the Sorcerers Stone",
+            "order" : 1,
 			"category_name" : "Fantasy",
 			"release_year" : 2001,
 			"running_time" : 152,
@@ -17,6 +18,7 @@
 		"Harry Potter and the Chamber of Secrets" : {
 			"movie_id" : 2,
 			"title" : "Harry Potter and the Chamber of Secrets",
+            "order" : 2,
 			"category_name" : "Fantasy",
 			"release_year" : 2002,
 			"running_time" : 161,
@@ -31,6 +33,7 @@
 		"Harry Potter and the Prison of Azkaban" :{
 			"movie_id" : 3,
 			"title" : "Harry Potter and the Prison of Azkaban",
+            "order" : 3,
 			"category_name" : "Fantasy",
 			"release_year" : 2004,
 			"running_time" : 142,
@@ -45,6 +48,7 @@
 		"Harry Potter and the Goblet of Fire" :{
 			"movie_id" : 4,
 			"title" : "Harry Potter and the Goblet of Fire",
+            "order" : 4,
 			"category_name" : "Fantasy",
 			"release_year" : 2005,
 			"running_time" : 157,
@@ -59,6 +63,7 @@
 		"Harry Potter and the Order of the Phoenix" :{
 			"movie_id" : 5,
 			"title" : "Harry Potter and the Order of the Phoenix",
+            "order" : 5,
 			"category_name" : "Fantasy",
 			"release_year" : 2007,
 			"running_time" : 139,
@@ -73,6 +78,7 @@
 		"Harry Potter and the Half-Blood Prince" :{
 			"movie_id" : 6,
 			"title" : "Harry Potter and the Half-Blood Prince",
+            "order" : 6,
 			"category_name" : "Fantasy",
 			"release_year" : 2009,
 			"running_time" : 153,
@@ -87,6 +93,7 @@
 		"Harry Potter and the Deathly Hallows : Part I" :{
 			"movie_id" : 7,
 			"title" : "Harry Potter and the Deathly Hallows : Part I",
+            "order" : 7,
 			"category_name" : "Fantasy",
 			"release_year" : 2010,
 			"running_time" : 146,
@@ -101,6 +108,7 @@
 		"Harry Potter and the Deathly Hallows : Part II" :{
 			"movie_id" : 8,
 			"title" : "Harry Potter and the Deathly Hallows : Part II",
+            "order" : 8,
 			"category_name" : "Fantasy",
 			"release_year" : 2011,
 			"running_time" : 130,
