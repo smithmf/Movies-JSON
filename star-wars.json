@@ -3,6 +3,7 @@
 		"Episode I: The Phantom Menace" : {
 			"movie_id" : 1,
 			"title" : "Episode I: The Phantom Menace",
+            "order" : 1,
 			"category_name" : "Science Fiction",
 			"release_year" : 1999,
 			"running_time" : 133,
@@ -17,6 +18,7 @@
 		"Episode II: Attack of the Clones" : {
 			"movie_id" : 2,
 			"title" : "Episode II: Attack of the Clones",
+            "order" : 2,
 			"category_name" : "Science Fiction",
 			"release_year" : 2002,
 			"running_time" : 142,
@@ -31,6 +33,7 @@
 		"Episode III: Revenge of the Sith" : {
 			"movie_id" : 3,
 			"title" : "Episode III: Revenge of the Sith",
+            "order" : 3,
 			"category_name" : "Science Fiction",
 			"release_year" : 2005,
 			"running_time" : 140,
@@ -45,6 +48,7 @@
 		"Episode IV: A New Hope" : {
 			"movie_id" : 4,
 			"title" : "Episode IV: A New Hope",
+            "order" : 4,
 			"category_name" : "Science Fiction",
 			"release_year" : 1977,
 			"running_time" : 123,
@@ -59,6 +63,7 @@
 		"Episode V: The Empire Strikes Back" : {
 			"movie_id" : 5,
 			"title" : "Episode V: The Empire Strikes Back",
+            "order" : 5,
 			"category_name" : "Science Fiction",
 			"release_year" : 1980,
 			"running_time" : 129,
@@ -73,6 +78,7 @@
 		"Episode VI: Return of the Jedi" : {
 			"movie_id" : 6,
 			"title" : "Episode VI: Return of the Jedi",
+            "order" : 6,
 			"category_name" : "Science Fiction",
 			"release_year" : 1983,
 			"running_time" : 136,
@@ -87,6 +93,7 @@
 		"Episode VII: The Force Awakens" : {
 			"movie_id" : 7,
 			"title" : "Episode VII: The Force Awakens",
+            "order" : 7,
 			"category_name" : "Science Fiction",
 			"release_year" : 2015,
 			"running_time" : 135,
@@ -100,7 +107,8 @@
 		},
 		"" : {
 			"movie_id" : 8,
-			"title" : "",
+			"title" : "Rogue One: A Star Wars Story",
+            "order" : 8,
 			"category_name" : "Science Fiction",
 			"release_year" : 2016,
 			"running_time" : 0,
