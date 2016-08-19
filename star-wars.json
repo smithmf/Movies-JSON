@@ -3,6 +3,7 @@
 		"Episode I: The Phantom Menace" : {
 			"movie_id" : 1,
 			"title" : "Episode I: The Phantom Menace",
+            "order" : 1,
 			"category_name" : "Science Fiction",
 			"release_year" : 1999,
 			"running_time" : 133,
