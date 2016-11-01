@@ -1,0 +1,60 @@
+{
+  "Alien": {
+    "Alien": {
+      "movie_id": 1,
+      "title": "Alien",
+      "category_name": "Science Fiction",
+      "release_year": 1979,
+      "running_time": 117,
+      "rating_name": "R",
+      "disc_format_name": "DVD",
+      "number_of_discs": 1,
+      "viewing_format_name" : "Widescreen",
+			"aspect_ratio_name" : "2.35:1",
+			"status" : 1,
+      "time_stamp": "2016-10-31"
+    },
+    "Aliens": {
+      "movie_id": 2,
+      "title": "Aliens",
+      "category_name": "Science Fiction",
+      "release_year": 1986,
+      "running_time": 137,
+      "rating_name": "R",
+      "disc_format_name": "DVD",
+      "number_of_discs": 1,
+      "viewing_format_name" : "Widescreen",
+			"aspect_ratio_name" : "2.35:1",
+			"status" : 1,
+      "time_stamp": "2016-10-31"
+    },
+    "Alien 3": {
+      "movie_id": 3,
+      "title": "Alien 3",
+      "category_name": "Science Fiction",
+      "release_year": 1992,
+      "running_time": 114,
+      "rating_name": "R",
+      "disc_format_name": "DVD",
+      "number_of_discs": 1,
+      "viewing_format_name" : "Widescreen",
+			"aspect_ratio_name" : "2.35:1",
+			"status" : 1,
+      "time_stamp": "2016-10-31"
+    },
+    "Alien: Resurrection": {
+      "movie_id": 4,
+      "title": "Alien: Resurrection",
+      "category_name": "Science Fiction",
+      "release_year": 1997,
+      "running_time": 109,
+      "rating_name": "R",
+      "disc_format_name": "DVD",
+      "number_of_discs": 1,
+      "viewing_format_name" : "Widescreen",
+			"aspect_ratio_name" : "2.35:1",
+			"status" : 1,
+      "time_stamp": "2016-10-31"
+    }
+  }
+}
